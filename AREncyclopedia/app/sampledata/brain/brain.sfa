@@ -37,7 +37,7 @@
     file: 'sampledata/brain/Brain.obj',
     name: 'Brain',
     recenter: 'root',
-    scale: 0.005816,
+    scale: 0.001816,
   },
   version: '0.54:2',
 }
